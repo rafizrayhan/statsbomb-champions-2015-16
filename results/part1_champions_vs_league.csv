@@ -1,0 +1,41 @@
+metric,champion,league,champion_value,league_average,rank_in_league
+Possession (share of passes),Leicester City,Premier League,0.42568039244568956,0.4999999999999999,18
+Passes per possession,Leicester City,Premier League,3.8444251987468903,4.78270078252103,18
+Pass completion (open play),Leicester City,Premier League,0.6979491227832003,0.7623867744552555,18
+Long balls (share of passes),Leicester City,Premier League,0.19644569788095076,0.17336052752252548,4
+Crosses (share of final-third passes),Leicester City,Premier League,0.13406020282866754,0.1141826973923703,5
+Possessions from counter-attacks,Leicester City,Premier League,0.02728269800629312,0.01863996111886152,1
+PPDA (lower = more pressing),Leicester City,Premier League,15.81137125651538,15.245237704090854,11
+Shots per game (no penalties),Leicester City,Premier League,13.473684210526315,12.917105263157893,8
+xG per game (no penalties),Leicester City,Premier League,1.4762281838421052,1.1843194665376313,5
+xG per shot,Leicester City,Premier League,0.10690519265578487,0.09179180626692446,2
+Possession (share of passes),Barcelona,La Liga,0.6621145584648678,0.5,1
+Passes per possession,Barcelona,La Liga,6.959717719686058,4.494092187957294,1
+Pass completion (open play),Barcelona,La Liga,0.8595919627294982,0.7495803678295457,1
+Long balls (share of passes),Barcelona,La Liga,0.12815602543949445,0.1751750723781269,20
+Crosses (share of final-third passes),Barcelona,La Liga,0.0725845000503415,0.12565721683873907,20
+Possessions from counter-attacks,Barcelona,La Liga,0.02281158161344592,0.017506792459830795,2
+PPDA (lower = more pressing),Barcelona,La Liga,10.335361725889703,12.407634035894251,2
+Shots per game (no penalties),Barcelona,La Liga,15.394736842105264,11.935526315789474,2
+xG per game (no penalties),Barcelona,La Liga,2.0143978479894735,1.1891780273619736,1
+xG per shot,Barcelona,La Liga,0.13434274066741828,0.09936061173742358,1
+Possession (share of passes),Juventus,Serie A,0.556485884590963,0.5,4
+Passes per possession,Juventus,Serie A,5.743971553492747,4.627517708305478,3
+Pass completion (open play),Juventus,Serie A,0.829409731962934,0.7636203921224383,3
+Long balls (share of passes),Juventus,Serie A,0.14852238677586502,0.1669004996174853,17
+Crosses (share of final-third passes),Juventus,Serie A,0.11113556172478202,0.12682743842635397,13
+Possessions from counter-attacks,Juventus,Serie A,0.026309188919413504,0.019045542582918507,1
+PPDA (lower = more pressing),Juventus,Serie A,12.930877276888259,13.87924698318373,9
+Shots per game (no penalties),Juventus,Serie A,15.763157894736842,12.996052631578948,2
+xG per game (no penalties),Juventus,Serie A,1.4375806306289474,1.0868102880734212,3
+xG per shot,Juventus,Serie A,0.09566011626410059,0.08370402955867853,2
+Possession (share of passes),Paris Saint-Germain,Ligue 1,0.6609095352177611,0.5000920898044688,1
+Passes per possession,Paris Saint-Germain,Ligue 1,8.100647940316197,4.6713853710798,1
+Pass completion (open play),Paris Saint-Germain,Ligue 1,0.8771893860473041,0.7650250288275439,1
+Long balls (share of passes),Paris Saint-Germain,Ligue 1,0.11482300773068448,0.16559084276261152,20
+Crosses (share of final-third passes),Paris Saint-Germain,Ligue 1,0.11481212963765389,0.13295199313307493,15
+Possessions from counter-attacks,Paris Saint-Germain,Ligue 1,0.020248914836611728,0.018404668122488033,7
+PPDA (lower = more pressing),Paris Saint-Germain,Ligue 1,11.445058565513508,15.061600955681465,2
+Shots per game (no penalties),Paris Saint-Germain,Ligue 1,14.756756756756756,11.569594594594594,1
+xG per game (no penalties),Paris Saint-Germain,Ligue 1,1.9099861830000002,1.065777089448599,1
+xG per shot,Paris Saint-Germain,Ligue 1,0.12795280860884511,0.09117449939133052,1
