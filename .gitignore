@@ -1,0 +1,12 @@
+# Downloaded StatsBomb event files (large, re-downloadable)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
